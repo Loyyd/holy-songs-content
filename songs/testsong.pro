@@ -6,5 +6,5 @@
 This is a song
 {section: Chorus}
 
-Haleluja
+
 
