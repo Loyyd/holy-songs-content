@@ -3,7 +3,7 @@
 
 {section: Verse 1}
 
-This is a song
+This is[D] a song
 {section: Chorus}
 
 
