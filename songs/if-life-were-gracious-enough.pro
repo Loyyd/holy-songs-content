@@ -3,13 +3,13 @@
 {reviewed: true}
 
 {section: Verse 1}
-[C]If life were [G]gracious [Am]enough to [F]grant my [C]way, [G]
-I would [C]reach to the [Em]ends of the [Am]earth
-To give [D7]love in every [G]day.
-And [Am]each would find his [Em]home
-With [F]peace and [G]friendship [Am]there;
-Where [Am]joyous songs [Em]abound
-And [F]happi[G7]ness to [C]share.
+[C]If life were grac[G]ious enough[Am] to grant[F] my wa[C]y, [G]
+I would [C]reach to the [Em]ends of the ear[Am]th
+To give lo[D7]ve in every [G]day.
+And ea[Am]ch would find his [Em]home
+With p[F]eace and frie[G]ndship th[Am]ere;
+Where j[Am]oyous songs ab[Em]ound
+And ha[F]ppi[G7]ness to sha[C]re.
 
 {section: Verse 2}
 If life were gracious enough to grant my dream,
