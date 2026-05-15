@@ -1,6 +1,6 @@
 {title: I Will Follow Him}
 {key: G}
-{reviewed: false}
+{reviewed: true}
 
 I will follow Hi[G]m, follow Him wherever He m[Bm]ay go,
 And near H[Em]im I always will be[Bm]
