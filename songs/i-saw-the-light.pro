@@ -1,4 +1,4 @@
-{title: I Saw The Light test}
+{title: I Saw The Light}
 {key: G}
 {reviewed: false}
 
