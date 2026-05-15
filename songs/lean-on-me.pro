@@ -1,15 +1,16 @@
 {title: Lean On Me}
 {key: D}
-{reviewed: false}
+{reviewed: true}
 
 [D]Sometimes in our [G]lives we all have [D]pain
-[F#m]We all have [A]sorrow. But if we are [D]wise [G]
-[D]We know that there's [A]always to[D]morrow
+We all have [F#m]sorrow. [A]But [D]if we are [G]wise
+We know that [D]there's [A]always to[D]morrow
 
-[D]Lean on me, when [G]you're not strong
-[D]And I'll be your [F#m]friend, I'll help you carry [A]on
+{section: Chorus}
+Lean on [D]me, when you're not [G]strong
+And I'll be your [D]friend, I'll [F#m]help you carry [A]on
 [D]For it won't be [G]long 'til I'm gonna [D]need
-[A]Somebody to [G]lean [A]on [D]
+[A]Some[G]body [A]to [D]lean on
 
 Please swallow your pride
 If I have things you need to borrow

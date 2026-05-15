@@ -1,21 +1,21 @@
 {title: Just a Closer Walk with Thee}
 {key: A}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
-[A]I am weak, but Thou art strong.
-[E7]Father, keep me from all wrong.
-[A]I'll be satisfied as long as I walk,
-[A7]Please let me walk close to Thee
+[A]I am weak, but Thou art [E7]strong.
+Father, keep me from all [A]wrong.
+I'll be satisfied [A7]as [D]long as I [A]walk,
+Please let me walk close [E7]to [A]Thee
 
 {section: Chorus}
-[D]Just a closer walk with Thee
-[A]Grant it, Jesus, this my plea;
-[A7]Daily walking close with Thee;
-[E7]Let it be, dear Lord, let it be.
+[A]Just a closer walk with [E7]Thee
+Grant it, Jesus, this my [A]plea;
+[A7]Daily walking close [D]with Thee;
+Let it [A]be, dear [E7]Lord, [A]let it be.
 
 {section: Verse 2}
-[A]When my feeble life is o'er;
-[E7]And time, for me, won't be no more.
-[A]Won't you guide me, guide me o'er,
-[A7]To Thy Kingdom on that shore?
+When my feeble life is o'er;
+And time, for me, won't be no more.
+Won't you guide me, guide me o'er,
+To Thy Kingdom on that shore?
