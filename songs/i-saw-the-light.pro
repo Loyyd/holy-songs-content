@@ -1,11 +1,11 @@
 {title: I Saw The Light}
 {key: G}
-{reviewed: false}
+{reviewed: true}
 
 {section: Chorus}
 [G]I saw the light, I [G7]saw the light,
 [C]No more darkness, [G]no more night.
-[Em]Now I’m so happy, no sorrow in sight
+Now I’m so happy, no sorrow in [Em]sight
 [G]Praise the Lord, I [D7]saw the [G]light.
 
 [G]I was a wanderer, [G7]sinking in sin,
