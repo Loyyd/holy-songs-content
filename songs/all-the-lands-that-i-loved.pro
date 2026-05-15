@@ -2,16 +2,16 @@
 {key: C}
 
 {section: Verse 1}
-I have been wandering all over this world
-Looking for something I just couldn't find
-Seems like I'm moving in search of myself
-Where will I find my peace of mind?
+I[C] have been [G]wandering all[Am] over this[F] world
+[C]Looking for s[G]omething I [F]just couldn't f[C]ind
+[C]Seems like I'm mo[G]ving in[Am] search of my[D7]self
+[C]Where will I[G] find my peace o[F]f mi[C]nd?
 
 {section: Chorus}
-All the lands that I loved
-All the seas that I sailed
-Miles and years roll by me
-It's been such a lonely trail
+[Am]All the la[Am7]nds that [D7]I loved
+[G]All the s[D]eas that I[Em] sailed
+[C]Miles and [D]years roll [Em]by me
+It's [C]been such a [D]lonel[G]y t[C]rai[G]l
 
 {section: Verse 2}
 Finally a welcome felt deep in my soul
