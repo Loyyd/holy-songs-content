@@ -2,6 +2,7 @@
 {key: D}
 {reviewed: true}
 
+{section: Verse 1}
 [D]Sometimes in o[G]ur lives we[D] all have pain
 We all have [F#m]sorr[A]ow. [D]But if we are [G]wise
 We know that [D]there's always [A]tomor[D]row
@@ -12,6 +13,7 @@ And I'll be you[D]r friend, I'll help y[F#m]ou carr[A]y on
 [D]Fo[G]r [D]it won't be long 'til I'm gonna need
 [A]Some[G]body to l[A]ean o[D]n
 
+{section: Verse 2}
 Please swallow your pride
 If I have things you need to borrow
 For no one can fill those of your needs
