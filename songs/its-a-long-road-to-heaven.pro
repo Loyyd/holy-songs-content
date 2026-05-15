@@ -3,18 +3,18 @@
 {reviewed: true}
 
 {section: Chorus}
-[G]It's a long road to [C]Heaven,
-[G]A winding steep and [D7]high,
-But when you walk with [G]love
-With the [D]wind on your wing
-And [G]cover the earth
-With the [D]songs you sing
+[G]It's a long road to Hea[C]ven,
+[G]A winding steep and h[D7]igh,
+But when you walk[G] with love
+With the w[D]ind on your wing
+And c[G]over the earth
+With the song[D]s you sing
 The [G]miles [C]fly [G]by.
 
 {section: Verse 1}
-[G]I walked, one [C]morning by the [G]sea
-And all the [Em]waves reached [A]out to [D7]me
-I took their tears, then let them [G]be.
+[G]I walked, one m[C]orning by the sea[G]
+And all the wav[Em]es reached [A]out to me[D7]
+I took their tears, then let them be. [G]
 
 {section: Verse 2}
 I walked, one morning at the dawn
