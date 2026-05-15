@@ -3,16 +3,16 @@
 {reviewed: true}
 
 {section: Verse 1}
-[A]I am weak, but Thou art [E7]strong.
+[A]I am weak, but Thou art strong[E7].
 Father, keep me from all [A]wrong.
-I'll be satisfied [A7]as [D]long as I [A]walk,
-Please let me walk close [E7]to [A]Thee
+I'll be satisfied[A7] as lo[D]ng as I w[A]alk,
+Please let me walk[E7] close to [A]Thee
 
 {section: Chorus}
-[A]Just a closer walk with [E7]Thee
-Grant it, Jesus, this my [A]plea;
-[A7]Daily walking close [D]with Thee;
-Let it [A]be, dear [E7]Lord, [A]let it be.
+[A]Just a closer walk with T[E7]hee
+Grant it, Jesus, this[A] my plea;
+[A7]Daily walking close with T[D]hee;
+Let it be,[A] dear [E7]Lord, l[A]et it be.
 
 {section: Verse 2}
 When my feeble life is o'er;
