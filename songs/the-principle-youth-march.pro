@@ -15,15 +15,11 @@
 {section: Verse 2}
 Heaven and earth all are made anew, blessed by the light of God;
 Evil and sin vanish away, burned in the holy fire.
-
-{section: Verse 3}
 This is the land of the heart, every people living as one,
 Glad voices filling the land, sing a joyful song.
 
-{section: Verse 4}
+{section: Verse 3}
 Proud is my heart bursting with my hope, we are the youth of God;
 See how we go moving as one, marching at His command.
-
-{section: Verse 5}
 Five colors shine in the ranks, every people, every race of man.
 We'll shake the heavens and earth, with our victory song.
