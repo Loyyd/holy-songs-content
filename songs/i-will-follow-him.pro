@@ -2,25 +2,26 @@
 {key: G}
 {reviewed: false}
 
-[G]I will follow [Bm]Him, follow Him wherever He may go,
-[Em]And near Him I [Bm]always will be
-[C]For nothing can [D]keep me a[G]way, He is my [Em]desti[D]ny.
+I will follow Hi[G]m, follow Him wherever He m[Bm]ay go,
+And near H[Em]im I always will be[Bm]
+For [C]nothing can keep me a[D]way, He is my des[G]tiny[Em].   [D]
+I w[D]ill follow Hi[G]m, Ever since He touched my hear[Bm]t I knew,
+There is[Em]n't an ocean too dee[Bm]p, a mo[C]untain so high it can kee[Am]p,
+[D]Keep me a[G]way[Em], awa[D]y from His [G]love[D]. 
 
-[D]I will follow [G]Him, Ever since He [Bm]touched my heart I knew,
-[Em]There isn't an [Bm]ocean too deep, a [C]mountain so high it can [Am]keep,
-[D]Keep me a[G]way, a[Em]way from [D]His [G]love. [D]
 
-[G]I love Him, I love Him, I love Him,
-[Em]And where He goes, I'll follow, I'll follow, I'll follow.
 
-[G]I will follow [Bm]Him, follow Him wherever He may go,
-[Em]There isn't an [Bm]ocean too deep, A [C]mountain so high it can [D]keep,
-[D]Keep me a[G]way, a[Em]way from [D]his [G]love [D]
+I l[G]ove Him, I love Him, I love Him,
+And where He goes, I'll fol[Em]low, I'll follow, I'll follow.
+
+I will follow Hi[G]m, follow Him wherever He[Bm] may go,
+There is[Em]n't an ocean too deep[Bm], A moun[C]tain so high it can keep,[D]
+[D]Keep me a[G]wa[Em]y, aw[D]ay from his l[G]ove [D]
 
 We will follow Him, follow Him wherever He may go,
 There isn't an ocean too deep,
-[C]A mountain so high it can [Am]keep,
-[D]Keep us a[G]way, a[Em]way from [D]His [G]love [D]
+A mo[C]untain so high it can ke[Am]ep,
+K[D]eep us a[G]way[Em], a[D]way from His [G]love[D] 
 
 I love Him, I love Him, I love Him,
 And where He goes, I'll follow, I'll follow, I'll follow,
