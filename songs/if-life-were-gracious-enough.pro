@@ -1,31 +1,31 @@
 {title: If Life Were Gracious Enough}
 {key: C}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
-[C]If life were gracious enough to grant my way,
-[G]I would reach to the ends of the earth
-[Am]To give love in every day.
-[F]And each would find his home
-[C]With peace and friendship there;
-[Em]Where joyous songs abound
-[G]And happiness to share.
+[C]If life were [G]gracious [Am]enough to [F]grant my [C]way, [G]
+I would [C]reach to the [Em]ends of the [Am]earth
+To give [D7]love in every [G]day.
+And [Am]each would find his [Em]home
+With [F]peace and [G]friendship [Am]there;
+Where [Am]joyous songs [Em]abound
+And [F]happi[G7]ness to [C]share.
 
-{{section: Verse 2}
-[C]If life were gracious enough to grant my dream,
-[G]I would see your face in the stars
-[Am]And hear your song in every stream.
-[F]The comfort of your smile
-[C]In the warm caress of spring,
-[Em]In the dance of life all the while,
-[G7]I feel your love in everything.
+{section: Verse 2}
+If life were gracious enough to grant my dream,
+I would see your face in the stars
+And hear your song in every stream.
+The comfort of your smile
+In the warm caress of spring,
+In the dance of life all the while,
+I feel your love in everything.
 
-{{section: Verse 3}
-[C]We will make life gracious enough
-[G]To fulfill our dream.
-[Am]We will lift off the weight of the world
-[F]And our love will blossom supreme.
-[C]We will free each heart from the pain
-[Em]And anguish of the past.
-[G]Through the preciousness of our love
-[C]True Joy will reign at last.
+{section: Verse 3}
+We will make life gracious enough
+To fulfill our dream.
+We will lift off the weight of the world
+And our love will blossom supreme.
+We will free each heart from the pain
+And anguish of the past.
+Through the preciousness of our love
+True Joy will reign at last.
