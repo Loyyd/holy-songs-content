@@ -2,25 +2,25 @@
 {key: D}
 {reviewed: true}
 
-[D]Sometimes in our [G]lives we all have [D]pain
-We all have [F#m]sorrow. [A]But [D]if we are [G]wise
-We know that [D]there's [A]always to[D]morrow
+[D]Sometimes in o[G]ur lives we[D] all have pain
+We all have [F#m]sorr[A]ow. [D]But if we are [G]wise
+We know that [D]there's always [A]tomor[D]row
 
 {section: Chorus}
 Lean on [D]me, when you're not [G]strong
-And I'll be your [D]friend, I'll [F#m]help you carry [A]on
-[D]For it won't be [G]long 'til I'm gonna [D]need
-[A]Some[G]body [A]to [D]lean on
+And I'll be you[D]r friend, I'll help y[F#m]ou carr[A]y on
+[D]Fo[G]r [D]it won't be long 'til I'm gonna need
+[A]Some[G]body to l[A]ean o[D]n
 
 Please swallow your pride
 If I have things you need to borrow
 For no one can fill those of your needs
 That you won't let show
 
-[D]You just call on me [G]brother, when you need a [D]hand
-[A]We all need some[G]body to [A]lean [D]on
-[G]You just might have a [D]problem that I'll understand
-[A]We all need some[G]body to [A]lean [D]on
+[D]You just call on me [G]brother, when[D] you need a hand
+We all need so[A]me[G]body to[A] lean [D]on
+You just might have a p[G]roblem that[D] I'll understand
+We all need som[A]eb[G]ody to[A] lea[D]n on
 
 Lean on me...
 You just call on me brother...
