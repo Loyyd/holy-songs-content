@@ -1,34 +1,28 @@
 {title: Amazing Grace}
-{key: E}
+{artist: Edwin Othello Excell; John Newton; John P. Rees; William W. Walker}
+{key: G}
 {reviewed: true}
 
 {section: Verse 1}
-[E]Amazing Grace, how swee[A]t the soun[E]d,
-That saved a wretch like m[B7]e.
-I o[E]nce was lo[E7]st but n[A]ow am fou[E]nd,
-
-Was blind, but[B7] now I [E]see.
+Am[G]azing Gr[G7]ace, how [C]sweet the so[G]und,
+That s[G]aved a wr[G7]etch like [D]me.
+I [G]once was [G7]lost, but [C]now I'm [G]found,
+Was bl[Em]ind, but [D]now I [G]see.
 
 {section: Verse 2}
-T'was Grace that taught my heart to fear.
-And Grace, my fears relieved.
-How precious did that Grace appear
-The hour I first believed.
+T'was [G]grace that [G7]taught my [C]heart to [G]fear,
+And [G]grace my [G7]fears reli[D]eved.
+How pr[G]ecious [G7]did that [C]grace app[G]ear,
+The [Em]hour I [D]first bel[G]ieved.
 
 {section: Verse 3}
-Through many dangers, toils and snares
-I have already come;
-'Tis Grace that brought me safe thus far,
-And Grace will lead me home.
+Through [G]many da[G7]ngers, [C]toils and [G]snares
+I [G]have al[G7]ready [D]come.
+T'was [G]Grace that [G7]brought me [C]safe thus [D]far
+And [Em]Grace will [D]lead me [G]home.
 
 {section: Verse 4}
-The Lord has promised good to me.
-His word my hope secures.
-He will my shield and portion be,
-As long as life endures.
-
-{section: Verse 5}
-Yea, when this flesh and heart shall fail,
-And mortal life shall cease,
-I shall possess within the veil,
-A life of joy and peace.
+When [G]we've been [G7]there ten th[C]ousand ye[G]ars,
+Bright [G]shining [G7]as the s[D]un
+We've [G]no less [G7]days to si[C]ng God's [D]praise
+Than [Em]when we f[D]irst beg[G]un.

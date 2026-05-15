@@ -1,0 +1,40 @@
+{title: No Longer Slaves}
+{artist: Brian Johnson, Jonathan David Helser, Joel Case}
+{key: Bb}
+{reviewed: true}
+
+{section: Intro}
+[Gm]    [F]    [Bb]    [Eb]
+
+{section: Verse 1}
+[Bb]You unravel me, with a melody
+[Eb]You surround me [F]with a song[Bb]
+[Bb]Of deliverance, from my enemies
+Till [Eb]all my [F]fears are [Bb]gone
+
+{section: Chorus}
+I'm no [Eb]longer a [F]slave to fea[Bb]r
+I [Gm]am a [F]child of [Bb]God
+
+{section: Verse 2}
+From my mother's [Bb]womb
+You have chosen me[Dm]
+[Eb]Love has [F]called my [Bb]name
+I've been born [Bb]again, into Your [Bb]family[Dm]
+Your [Eb]blood flows [F]through my veins[Bb]
+
+{section: Interlude}
+[Gm]    [F]    [Bb]    [Eb]
+
+{section: Bridge 1}
+[Gm]You split the [F]sea, so I could [Bb]walk right [Eb]through it
+[Gm]My fears were [F]drowned in perfect [Bb]love [Eb]
+[Gm]You rescued me[F], so I could [Bb]stand and sing [Eb]
+I [Gm]am a child [F]of [Bb]God [Eb]
+
+{section: Bridge 2}
+[Gm]I am [F]sur[Bb]roun[Eb]ded by [Gm]the [F]arms [Bb]of the [Eb]Father
+[Gm]I [F]am sur[Bb]roun[Eb]ded by [Gm]songs [F]of de[Bb]liver[Eb]ance
+[Gm]We've [F]been [Bb]libe[Eb]rated, [Gm]from [F]our bon[Bb]dage [Eb]
+[Gm]We're t[F]he sons [Bb]and the [Eb]daughters
+[Gm]Let us [F]sing our [Bb]freedom [Eb]
