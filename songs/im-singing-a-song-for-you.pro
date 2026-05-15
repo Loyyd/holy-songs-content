@@ -3,16 +3,16 @@
 {reviewed: true}
 
 {section: Verse 1}
-[F]I'm [Bb]singing a [F]song for you
-If you're happy, then [C7]you can sing [F]too.
-Then [Bb]we'll sing for [F]everyone
-And the whole world will [C7]be happy [F7]too.
+[F]I'm sin[Bb]ging a [F]song for you
+If you're happy, then y[C7]ou can sing too[F].
+Then we'[Bb]ll sing for ev[F]eryone
+And the whole world will [C7]be happy to[F7]o.
 
 {section: Verse 2}
-[A]We can change the world if [E]we work together,
-[B7]Spreading love and joy [E7]everywhere.
-[A]We can change the world if [E]we give our hearts out
-[B7]Showing others that we really [E]care.
+[A]We can change the world if we[E] work together,
+[B7]Spreading love and joy everywhe[E7]re.
+[A]We can change the world if we gi[E]ve our hearts out
+[B7]Showing others that we really ca[E]re.
 
 {section: Verse 3}
 We can make the sun shine everyday,
