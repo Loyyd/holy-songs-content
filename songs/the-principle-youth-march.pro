@@ -3,27 +3,23 @@
 {reviewed: true}
 
 {section: Verse 1}
-[D]We are the youth, soldiers of the truth, called by our [G]God [D]on [Bm]high; [A7]
-[Bm]Now is the [Em]time, march [D]to the [G]world, [A7]sounding the battle [D]cry!
-[Bm]Too [F#7]long [Bm]the [F#7]dark night of [Bm]sin held in [F#]fear the [Bm]people of the [A7]world,
-[Bm]We'll [A]drive [G]the [D]darkness [Bm7]away, [D]bringing [A7]in the new [D]day.
+[D]We are the youth, soldiers of the truth, [G]calle[D]d by our[Bm] God [A7]on high; 
+No[Bm]w is the tim[Em]e, march [D]to the [G]world, so[A7]undin[D]g the battle cry!
+T[Bm]oo long [F#7]the d[Bm]ark night[F#7] of [Bm]sin held[F#] in f[Bm]ear the pe[A7]ople of the world,
+[Bm]We'll dr[A]ive t[G]he dar[D]kness aw[Bm7]ay, b[D]ringing i[A7]n the new [D]day.
 
 {section: Chorus}
-[D]Lift high! Lift [Em]high! The banner of [D]Truth on [G]high; [D] [A7]
-[Bm]March [A]forward [G]crossing the [D]sea, [Bm7]to the [D]ends of the [A7]earth. [D]
+[D]Lift high! Lift hi[Em]gh! The ba[D]nner of[G] Tr[D]uth on hig[A7]h;  
+[Bm]March fo[A]rwa[G]rd cr[D]ossing the s[Bm7]ea, to[D] the end[A7]s of the ear[D]th. 
 
 {section: Verse 2}
 Heaven and earth all are made anew, blessed by the light of God;
 Evil and sin vanish away, burned in the holy fire.
-
-{section: Verse 3}
 This is the land of the heart, every people living as one,
 Glad voices filling the land, sing a joyful song.
 
-{section: Verse 4}
+{section: Verse 3}
 Proud is my heart bursting with my hope, we are the youth of God;
 See how we go moving as one, marching at His command.
-
-{section: Verse 5}
 Five colors shine in the ranks, every people, every race of man.
 We'll shake the heavens and earth, with our victory song.
