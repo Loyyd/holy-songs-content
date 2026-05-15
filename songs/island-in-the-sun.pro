@@ -1,6 +1,6 @@
 {title: Island in the Sun}
 {key: D}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
 Th[D]is is my island in [G]the sun
