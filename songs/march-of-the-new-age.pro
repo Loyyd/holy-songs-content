@@ -10,8 +10,8 @@ W[G]in the whole world, he[C]aven and eart[G]h,
 Wake the mighty land that rem[C]ains asle[G]ep;
 [D]Loudly ring the be[G]ll and proclaim to a[D]ll;
 [G]Fighting on till the day Sa[C]tan falls in def[G]eat, 
-[C]I'll take the ta[G]sk on b[D]y myse[G]lf.
-[G]Share the persecution that Je[C]sus k[B7]new,
+[C]I'll take the ta[G]sk on [D]by myse[G]lf.
+[G]Share the persecution that Je[C]sus [B7]knew,
 [Am7]Suffering abu[G]se from the moc[D]king cro[G]wd. 
 
 {section: Verse 2}
