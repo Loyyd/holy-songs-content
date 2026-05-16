@@ -2,10 +2,10 @@
 {key: C}
 {reviewed: true}
 
-[C]Morning has [Dm]broken, [G]like the first [F]morn[C]ing
-[Em]Blackbird has [Am]spoken, [D]like the first [G]bird
-[C]Praise for the [F]singing, [C]praise for the [Am]morn[G]ing
-[G]Praise for them [C]springing [Dm]fresh [G]from the [C]Word [F] [C]
+[C]Morning has broke[Dm]n, like t[G]he first morn[F]ing[C]
+Blackbird has [Em]spok[Am]en, like[D] the first bi[G]rd
+[C]Praise for the s[F]inging, [C]praise for the mo[Am]rning[G]
+[G]Praise for them [C]springing[Dm] fres[G]h from the Wo[C]rd[F]  [C]
 
 Sweet the rain's new fall, sunlit from heaven
 Like the first dew fall, on the first grass
