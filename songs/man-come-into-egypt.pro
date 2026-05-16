@@ -1,51 +1,46 @@
 {title: Man Come Into Egypt}
 {key: Dm}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
-[Dm]There is a man come into Egypt
-[G]And Moses is his name.
-[Dm]When he saw the grief upon us,
-[G]In his heart there burned a flame -
+[Dm]There is a man come into [G]Egypt
+[Dm]And Moses [G]is his [A]name.
+[Dm]When he saw the grief upon [G]us,
+In his heart there burned a [A]flame -
+In his [Dm]heart there [G]burned a [C]flame, oh Lord, [A]
+In his [Dm]heart there burned a [A]flame.
+When he saw the [Dm]grief upon [G]us,
+In his [Dm]heart there [A]burned a [Dm]flame.
 
-{{section: Verse 2}
-[Dm]In his heart there burned a flame, oh Lord,
-[G]In his heart there burned a flame.
-[Dm]When he saw the grief upon us,
-[A]In his heart there burned a flame.
+{section: Verse 2}
+There is a man come into Egypt,
+His eyes are full of light.
+Like the sun come up in Egypt,
+Come to drive away the night -
 
-{{section: Verse 3}
-[Dm]There is a man come into Egypt,
-[G]His eyes are full of light.
-[Dm]Like the sun come up in Egypt,
-[A]Come to drive away the night -
+Come to drive away the night, oh Lord,
+Come to drive away the night.
+Like the sun come up in Egypt,
+Come to drive away the night.
 
-{{section: Verse 4}
-[Dm]Come to drive away the night, oh Lord,
-[G]Come to drive away the night.
-[Dm]Like the sun come up in Egypt,
-[A]Come to drive away the night.
+{section: Verse 3}
+There is a man come into Egypt,
+He's come for you and me.
+On his lips a word is singing,
+And the world is 'liberty' -
 
-{{section: Verse 5}
-[Dm]There is a man come into Egypt,
-[G]He's come for you and me.
-[Dm]On his lips a word is singing,
-[A]And the world is 'liberty' -
+And the world is 'liberty', oh Lord,
+And the world is 'liberty'.
+On his lips a word is singing,
+And the world is 'liberty'.
 
-{{section: Verse 6}
-[Dm]And the world is 'liberty', oh Lord,
-[G]And the world is 'liberty'.
-[Dm]On his lips a word is singing,
-[A]And the world is 'liberty'.
+{section: Verse 4}
+There is a man come into Egypt,
+To stir the souls of men.
+We will follow him to freedom,
+And never wear those chains again -
 
-{{section: Verse 7}
-[Dm]There is a man come into Egypt,
-[G]To stir the souls of men.
-[Dm]We will follow him to freedom,
-[A]And never wear those chains again -
-
-{{section: Verse 8}
-[Dm]Never wear those chains again,
-[G]Oh Lord, Never wear those chains again.
-[Dm]We will follow him to freedom, And
-[A]never wear those chains again.
+Never wear those chains again,
+Oh Lord, Never wear those chains again.
+We will follow him to freedom, And
+never wear those chains again.
