@@ -3,14 +3,14 @@
 {reviewed: true}
 
 {section: Verse 1}
-[Dm]There is a man come into [G]Egypt
-[Dm]And Moses [G]is his [A]name.
-[Dm]When he saw the grief upon [G]us,
-In his heart there burned a [A]flame -
-In his [Dm]heart there [G]burned a [C]flame, oh Lord, [A]
-In his [Dm]heart there burned a [A]flame.
-When he saw the [Dm]grief upon [G]us,
-In his [Dm]heart there [A]burned a [Dm]flame.
+There is a m[Dm]an come into Egyp[G]t
+And M[Dm]oses is [G]his name[A].
+When he s[Dm]aw the grief upo[G]n us,
+In his heart there burned a fla[A]me -
+In his h[Dm]eart there bur[G]ned a fla[C]me, oh Lo[A]rd, 
+In his he[Dm]art there burned a fla[A]me.
+When he sa[Dm]w the grief u[G]pon us,
+In his he[Dm]art there bu[A]rned a fla[Dm]me.
 
 {section: Verse 2}
 There is a man come into Egypt,
