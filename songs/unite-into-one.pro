@@ -3,19 +3,19 @@
 {reviewed: true}
 
 {section: Verse 1}
-[A]Chase away the power of [D]Satan,
+[A]Chase away the power of Sat[D]an,
 Far [A]away beyond the land and sea;
-[A]Build for God a boundless [D]King[A]dom,
-Giving [E7]joy and [A]liberty to all.
+B[A]uild for God a boundle[D]ss King[A]dom,
+Giving [E7]joy and li[A]berty to all.
 
 {section: Verse 2}
-[E7]Come, ye people [A]all around the world, [D]let's unite into [E]one; [E7]
-[A]Spreading forth the [E]glory of the [A]Father, [E]
-And His [A]great [E]will for[E7]ever[A]more.
+[E7]Come, ye people a[A]ll around the world, le[D]t's unite into on[E7]e; 
+[A]Spreading forth the glor[E]y of the F[A]athe[E]r, 
+And[A] His great will [E]forever[E7]more[A].
 
 {section: Chorus}
-[A]Unite, Unite, [D]let's unite [E]into [E7]one
-[A]Bring about one [E]nation [A]uniting [E]all the [A]people of the [E7]world. [A]
+[A]Unite, Unite, let's unit[D]e into o[E]ne. [E7]
+[A]Bring about one nat[E]ion un[A]iti[E]ng [A]all the pe[E7]ople of the wo[A]rld. 
 
 {section: Verse 3}
 Raise the white cross on our banner,
