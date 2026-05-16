@@ -3,14 +3,14 @@
 {reviewed: true}
 
 {section: Verse 1}
-[A]O, Light of Grace, shining [D]above,
-[A]Lighting my dim shadowed [E]way,
-[A]O, Light of Grace, easing my [D]pain,
-[A]You have shown that [E7]God is [A]love.
+[A]O, Light of Grace, shi[D]ning above,
+[A]Lighting my dim shadowed w[E]ay,
+[A]O, Light of Grace, e[D]asing my pain,
+[A]You have shown that G[E7]od is l[A]ove.
 
 {section: Chorus}
-[A]I'll give my life, [F#]and my [D]love,
-[A]unto the [D]one [E7]God of [A]love.
+[A]I'll give my life, and[F#] my lov[D]e,
+[A]unto the [D]one Go[E7]d of l[A]ove.
 
 {section: Verse 2}
 Though clouds may come, hiding His face,
