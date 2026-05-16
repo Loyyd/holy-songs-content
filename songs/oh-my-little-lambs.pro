@@ -3,10 +3,10 @@
 {reviewed: true}
 
 {section: Verse 1}
-[D]O, my [Bm]little [A]lambs, wandering on the [D]lonely [G]plain. [D] [A] [E7] [A]
-[G]Someday you may [F#7]fall, [Bm]overcome by your [A7]despair. [D]
-Weak, wounded soul, no one will [G]come to [D]comfort [A]you;
-[Bm]Alone, you have [A]no one to [D]love you, [G]no one to [D]bring the [Bm]truth. [Em] [A7] [D]
+[D]O, my [Bm]littl[A]e lamb[D]s, wandering on [G]the [D]lon[A]ely [E7]plain.[A]
+Someda[G]y you ma[F#7]y fall[Bm], overcom[A7]e by your despai[D]r. 
+Weak, wounded soul, no one will c[G]ome to com[D]fort y[A]ou;
+Alone[Bm], you hav[A]e n[D]o one to l[G]ove y[D]ou, no o[Bm]ne to br[Em]ing the[A7] truth.[D]
 
 {section: Verse 2}
 O, my little lambs, here is the One who heals your sins.
