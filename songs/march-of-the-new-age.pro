@@ -3,16 +3,16 @@
 {reviewed: true}
 
 {section: Verse 1}
-[G]Win the whole world, [C]heaven and [G]earth,
-[C]God's will for all shall [A7]be [D7]fulfilled;
+W[G]in the whole world, he[C]aven and eart[G]h,
+[C]God's will for all shall [A7]be fu[D7]lfilled;
 [G]Teach to all men [C]God's divine [G]word,
-[Em]Source of the [D]Father's [G]highest [C]truth [G]
-Wake the mighty land that [C]remains [G]asleep;
-[D]Loudly ring the bell and [G]proclaim to [D]all;
-[G]Fighting on till the day Satan falls in [C]defeat, [G]
-[C]I'll take the [G]task on [D]by [G]myself.
-[G]Share the persecution that [C]Jesus [B7]knew,
-[Am7]Suffering abuse from the [G]mocking [D]crowd. [G]
+[Em]Source of the [D]Fat[G]her'[C]s highest tr[G]uth 
+Wake the mighty land that rem[C]ains asle[G]ep;
+[D]Loudly ring the be[G]ll and proclaim to a[D]ll;
+[G]Fighting on till the day Sa[C]tan falls in def[G]eat, 
+[C]I'll take the ta[G]sk on b[D]y myse[G]lf.
+[G]Share the persecution that Je[C]sus k[B7]new,
+[Am7]Suffering abu[G]se from the moc[D]king cro[G]wd. 
 
 {section: Verse 2}
 Win the whole world, heaven and earth,
