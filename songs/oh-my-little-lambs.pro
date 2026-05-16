@@ -1,11 +1,11 @@
 {title: Oh, My Little Lambs}
 {key: D}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
-[D]O, my little [Bm]lambs, [A]wandering on the [D]lonely [G]plain. [D] [A] [E7] [A]
-[G]Someday you may [F#7]fall, over[Bm]come by your des[A7]pair. [D]
-[G]Weak, wounded [D]soul, no one will come to [A]comfort you;
+[D]O, my [Bm]little [A]lambs, wandering on the [D]lonely [G]plain. [D] [A] [E7] [A]
+[G]Someday you may [F#7]fall, [Bm]overcome by your [A7]despair. [D]
+Weak, wounded soul, no one will [G]come to [D]comfort [A]you;
 [Bm]Alone, you have [A]no one to [D]love you, [G]no one to [D]bring the [Bm]truth. [Em] [A7] [D]
 
 {section: Verse 2}
