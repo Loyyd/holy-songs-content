@@ -3,10 +3,10 @@
 {reviewed: false}
 
 {section: Verse 1}
-[A]Upon the earth I came to life in the world God pre[Bm]pared. [E7]
+[A]Upon the earth I came to life [Bm]in the world God pre[E7]pared.
 [F#m]One rejoicing [C#]land of [F#m]freedom I am [D]chosen to [E7]build,
 [A]To reveal the [E]Truth of [A]God, His [D]Purpose [A]and His [E]Will [C#]
-[F#m]Sacrifice your[D]self and [A]live, all for His de[A]sire, [E7]all for His de[A]sire.
+[F#m]Sacrifice yourself [D]and live, [A]all for His desire, [A]all for [E7]His de[A]sire.
 
 {section: Verse 2}
 All Heaven sings a mighty song, inspiration divine,
