@@ -3,10 +3,10 @@
 {reviewed: false}
 
 {section: Verse 1}
-[C]Snow and cold wind of the bitter dark night,
-[F]Lift off the weight of your [C]cold ruthless hand;
-[C]Spring breeze will [G7]chase you and [Am]bring flowery fragrances,
-[F]Breathing new [C]life to the [G7]suffocated [C]hills.
+Sn[C]ow and cold wind of the bitter dark night,
+[F]Lift off the weight of your cold ruthless ha[C]nd;
+[C]Spring breeze will chase you and br[G7]ing flowery fragr[Am]ances,
+Breat[F]hing new l[C]ife to the suffo[G7]cated hil[C]ls.
 
 {section: Verse 2}
 Though you most ruthless of winter winds blow,
