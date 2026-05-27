@@ -3,8 +3,8 @@
 {reviewed: false}
 
 {section: Verse 1}
-[Bb]Pure new life that once was sown within the [Eb]Garden's [Cm]fertile [F7]soil,[Bb]
-[D]Sprouting seed has [Gm]now become a [C7]blossom of [F]heavenly [Bb]love[C7]liness.[F]
+[Bb]Pure new life that once was sown wit[Eb]hin the [Cm]Garden'[F7]s fertile[Bb] soil,
+Sprouting [D]seed has no[Gm]w become a b[C7]lossom of h[F]eavenly[Bb] l[C7]ovelines[F]s.
 [Bb]Father a[Gm]bove, [Cm7]Lord of [F7]all, [Bb]shower your [C7]blessing [F7]upon
 [Bb]This holy [F]day, [Bb]bond of [Eb]love [Cm]forever [F7]more!
 [Bb]Hal-le-[Eb]lu-[D]jah, [Gm]Glorious [Cm7]Day of [F7]Joy![Bb]
