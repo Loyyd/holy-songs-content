@@ -3,14 +3,14 @@
 {reviewed: false}
 
 {section: Verse 1}
-[C]O, the Lord is [F]come, O the [C]Lord is [Am]come!
-[C]He has come to the [C]country of [F]God,
-[D]Shining in [D7]glorious [G]dawn. [G7]
-[Am]Here is our [Dm]Leader and [C]Lord, filled with our [Am]Father's light.
-[F]Leading all [C]men with His [C7]Word, into the [F]Purpose of God.
-[C]Beautiful [C]Father[Am6]land welcome the [C]Lord!
-[F]Come let us [Em]sing and re[G7]joice!
-[C]Halle[F]lujah, [C]Halle[G7]lujah, [C]Halle[Em6]lujah! [G7]A[C]men!
+[C]O, the Lord is c[F]ome[C], O the Lord is [Am]come!
+[C]He has co[C]me to the [F]country of God,
+[D]Shining in[D7] glorious[G] da[G7]wn. 
+[Am]Here is our Leader and [Dm]Lord[C], filled with our Father's[Am] light.
+[F]Leading all men with His [C]Word, i[C7]nto the Purpose of G[F]od.
+[C]Beautiful [C]Fatherland w[Am6]elcome the Lo[C]rd!
+[F]Come let us sing and re[Em]joic[G7]e!
+[C]Halleluj[F]ah, [C]Hallelu[G7]jah[C], Hallelujah[Em6]!  [G7]     [C]Amen!
 
 {section: Verse 2}
 O the Lord is come, O the Lord is come!
