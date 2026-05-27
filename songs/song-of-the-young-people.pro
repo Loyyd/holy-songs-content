@@ -3,10 +3,10 @@
 {reviewed: false}
 
 {section: Verse 1}
-[G]We shout with joy, we rise and sing! The [C]Will of God [Am]is [D7]done!
-[G]A new day dawns and the [Am]dream lives; the [D]Son [D7]of [G]God has come!
-[Em]Fight bravely to crush Satan; God's power will be [B]revealed.
-[G]In the children of our Father, the [Am]Youth of [D]Harmony.
+We [G]shout with joy, we rise and sing! The Will [C]of God [Am]is done![D7]
+A new d[G]ay dawns and the d[Am]ream lives; the [D]Son of God[D7] has [G]come!
+Fight b[Em]ravely to crush Satan; God's power will be reveale[B]d.
+In the child[G]ren of our Fat[Am]her, the Yo[D]uth of Harmon[G]y.
 
 {section: Verse 2}
 The darkness which has covered us in Him has been dispelled.
