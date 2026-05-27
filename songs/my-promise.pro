@@ -1,6 +1,5 @@
 {title: My Promise}
 {key: A}
-{reviewed: true}
 
 {section: Verse 1}
 [A]I ple[E]dge I will go,[F#m] I pl[E]ed[B7]ge I will go; [E7]

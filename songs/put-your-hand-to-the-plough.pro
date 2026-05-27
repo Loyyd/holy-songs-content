@@ -1,6 +1,5 @@
 {title: Put Your Hand to the Plough}
 {key: Dm}
-{reviewed: true}
 
 {section: Verse 1}
 [Dm]If you want to do God's will,

@@ -1,6 +1,5 @@
 {title: 'Till All My People Are One}
 {key: C}
-{reviewed: true}
 
 {section: Chorus}
 [C]Help each [F]oth[C]er [Em]in [Am]all that you do

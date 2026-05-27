@@ -1,6 +1,5 @@
 {title: The Father's Dwelling Place}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]The Father's [Em]dwelling [A7]place [D]is the [Bm]fountain [G]of our [A7]life,

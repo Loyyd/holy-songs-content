@@ -1,6 +1,5 @@
 {title: I Cannot Come}
 {key: F}
-{reviewed: true}
 
 {section: Chorus}
 [F]I cannot come,

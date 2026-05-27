@@ -1,6 +1,5 @@
 {title: If I Were Free}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]If I were fr[A7]ee to speak my min[D]d,

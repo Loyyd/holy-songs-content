@@ -1,6 +1,5 @@
 {title: I Saw The Light}
 {key: G}
-{reviewed: true}
 
 {section: Chorus}
 [G]I saw the light, I saw the light[G7],

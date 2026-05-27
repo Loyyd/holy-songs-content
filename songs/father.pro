@@ -1,6 +1,5 @@
 {title: Father}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]Father, you went through the [Bm]nights alone, 

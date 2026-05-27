@@ -1,6 +1,5 @@
 {title: The Climb}
 {key: E}
-{reviewed: true}
 
 {section: Verse 1}
 [E]I can almost see it

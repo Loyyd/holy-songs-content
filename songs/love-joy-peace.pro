@@ -1,6 +1,5 @@
 {title: Love Joy Peace}
 {key: Em}
-{reviewed: true}
 
 {section: Verse 1}
 [Em]Love, lo[D]ve, [Em]love, [B7]love

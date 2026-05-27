@@ -1,6 +1,5 @@
 {title: Oh When the Saints Go Marching In}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 [G]Oh when the Saints go marching in

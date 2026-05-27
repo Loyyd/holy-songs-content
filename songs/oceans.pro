@@ -2,7 +2,6 @@
 {artist: Hillsong United}
 {key: Em}
 {capo: 7}
-{reviewed: true}
 
 {section: Intro}
 [Em]    [D/F#]   [G]   [D]   [C]

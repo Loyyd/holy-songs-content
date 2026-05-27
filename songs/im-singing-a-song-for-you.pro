@@ -1,6 +1,5 @@
 {title: I'm Singing a Song for You}
 {key: F}
-{reviewed: true}
 
 {section: Verse 1}
 [F]I'm sin[Bb]ging a [F]song for you

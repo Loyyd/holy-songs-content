@@ -1,7 +1,6 @@
 {title: Open the Eyes of My Heart (v2)}
 {artist: Michael W. Smith}
 {key: E}
-{reviewed: true}
 
 {section: Verse}
 [E]Open the eyes of my heart, Lord,

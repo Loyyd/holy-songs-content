@@ -1,6 +1,5 @@
 {title: Dobedu Song}
 {key: F}
-{reviewed: true}
 
 {section: Verse 1}
 [G]Ingenoius m[D]inds strong [C]enough to s[G]trive

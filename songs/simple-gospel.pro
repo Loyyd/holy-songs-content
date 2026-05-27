@@ -1,7 +1,6 @@
 {title: Simple Gospel}
 {artist: United Pursuit}
 {key: A}
-{reviewed: true}
 
 {section: Intro}
 [A]   [Bm]    [F#m]     [D]

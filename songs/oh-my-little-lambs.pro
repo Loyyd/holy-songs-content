@@ -1,6 +1,5 @@
 {title: Oh, My Little Lambs}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]O, my [Bm]littl[A]e lamb[D]s, wandering on [G]the [D]lon[A]ely [E7]plain.[A]

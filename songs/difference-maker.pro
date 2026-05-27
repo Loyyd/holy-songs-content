@@ -1,6 +1,5 @@
 {title: Difference Maker}
 {key: E}
-{reviewed: true}
 {comment: Capo 2}
 
 {section: Intro}

@@ -1,6 +1,5 @@
 {title: Unite Into One}
 {key: A}
-{reviewed: true}
 
 {section: Verse 1}
 [A]Chase away the power of Sat[D]an,

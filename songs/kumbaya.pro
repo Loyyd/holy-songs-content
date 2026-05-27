@@ -1,6 +1,5 @@
 {title: Kumbaya}
 {key: C}
-{reviewed: true}
 
 {section: Verse 1}
 [C]Kumbaya, my Lord, [F]kumba[C]ya,

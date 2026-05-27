@@ -1,6 +1,5 @@
 {title: Lean On Me}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]Sometimes in o[G]ur lives we[D] all have pain

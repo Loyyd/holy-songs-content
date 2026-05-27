@@ -1,6 +1,5 @@
 {title: Heart of the Father}
 {key: Eb}
-{reviewed: true}
 
 {section: Verse 1}
 [Eb]Longing to live in deepest joy and [Gm]love e[Cm]ternal,

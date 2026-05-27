@@ -1,6 +1,5 @@
 {title: Song of Victory}
 {key: F}
-{reviewed: true}
 
 {section: Verse 1}
 Sing [F]Hosannas evermor[C7]e!

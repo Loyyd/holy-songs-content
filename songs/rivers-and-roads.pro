@@ -1,6 +1,5 @@
 {title: Rivers and Roads}
 {key: C}
-{reviewed: true}
 
 {section: Intro 2x}
 [C]|   [Am]|   [C]|

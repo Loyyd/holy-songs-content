@@ -1,6 +1,5 @@
 {title: Make Me A Channel Of Your Peace}
 {key: C}
-{reviewed: true}
 
 {section: Verse 1}
 [C]Make me a channel of your peace

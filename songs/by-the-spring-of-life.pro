@@ -1,6 +1,5 @@
 {title: By the Spring of Life}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 [G]We're marching to the blessed land of [C]Canaan with delight,[G]

@@ -1,6 +1,5 @@
 {title: Christ Is Here}
 {key: Am}
-{reviewed: true}
 
 {section: Chorus 2x}
 [Am]I want to sing, A[D]llel[Am]uia.[D] 

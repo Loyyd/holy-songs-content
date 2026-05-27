@@ -1,6 +1,5 @@
 {title: Sarang Hae}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 [G]Sarang hae tan si nul[Em],

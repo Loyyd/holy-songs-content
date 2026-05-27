@@ -1,7 +1,6 @@
 {title: Amazing Grace}
 {artist: Edwin Othello Excell; John Newton; John P. Rees; William W. Walker}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 Am[G]azing Gr[G7]ace, how [C]sweet the so[G]und,

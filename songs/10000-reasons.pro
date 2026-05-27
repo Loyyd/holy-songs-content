@@ -1,7 +1,6 @@
 {title: 10,000 Reasons (Bless the Lord)}
 {artist: Jonas Myrin & Matt Redman}
 {key: G}
-{reviewed: true}
 
 {section: Chorus}
 Bless the[C] Lord, O my[G] soul, [D/F#]O my [Em]soul,

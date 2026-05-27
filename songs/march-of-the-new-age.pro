@@ -1,6 +1,5 @@
 {title: March of the New Age}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 W[G]in the whole world, he[C]aven and eart[G]h,

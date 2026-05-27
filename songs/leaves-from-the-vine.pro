@@ -1,6 +1,5 @@
 {title: Leaves from the Vine}
 {key: A}
-{reviewed: true}
 
 {section: Verse 1}
 [A]Leaves from the vine, falling so slow;

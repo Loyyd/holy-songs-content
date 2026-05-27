@@ -1,6 +1,5 @@
 {title: Come back Home}
 {key: C}
-{reviewed: true}
 
 {section: Verse 1}
 [D]There's a man[G] I've read about, [D]and they say he live[G]s forever,[D]

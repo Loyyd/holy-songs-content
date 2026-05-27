@@ -1,6 +1,5 @@
 {title: Light of Grace}
 {key: A}
-{reviewed: true}
 
 {section: Verse 1}
 [A]O, Light of Grace, shi[D]ning above,

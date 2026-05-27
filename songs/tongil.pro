@@ -1,6 +1,5 @@
 {title: Tongil}
 {key: D}
-{reviewed: true}
 
 {section: Korean}
 [D]Urie [G]so wonun tong[D]il,

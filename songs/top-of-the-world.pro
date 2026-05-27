@@ -1,7 +1,6 @@
 {title: Top Of The World}
 {artist: Carpenters}
 {key: F}
-{reviewed: true}
 
 {section: Verse 1}
 S[F]uch a feelings comin[C]g over [Bb]me  [F]  

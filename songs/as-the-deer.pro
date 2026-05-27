@@ -1,7 +1,6 @@
 {title: As the Deer}
 {artist: Martin J. Nystrom}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]As the [A]deer panteth [Bm]for the [D/A]water

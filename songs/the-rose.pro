@@ -1,6 +1,5 @@
 {title: The Rose}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 Some say lov[D]e, it is a river[A7]

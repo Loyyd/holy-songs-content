@@ -1,6 +1,5 @@
 {title: Song of the Victors}
 {key: F}
-{reviewed: true}
 
 {section: Verse 1}
 Sing a[F] loud[C7] Hosanna to the L[Dm]ord,

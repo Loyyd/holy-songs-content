@@ -1,6 +1,5 @@
 {title: Higher Ground}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 [G]I'm pressing on the upward way,[C]

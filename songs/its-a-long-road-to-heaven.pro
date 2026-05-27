@@ -1,6 +1,5 @@
 {title: It's a Long Road to Heaven}
 {key: G}
-{reviewed: true}
 
 {section: Chorus}
 [G]It's a long road to Hea[C]ven,

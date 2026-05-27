@@ -1,6 +1,5 @@
 {title: Pass It On}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]It only takes a spar[F#m]k to get[G] a fire going [A7]

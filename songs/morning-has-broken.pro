@@ -1,6 +1,5 @@
 {title: Morning Has Broken}
 {key: C}
-{reviewed: true}
 
 {section: Verse 1}
 [C]Morning has broke[Dm]n, like t[G]he first morn[F]ing[C]

@@ -1,6 +1,5 @@
 {title: Sailing With Our Father}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 [G]If the trip [D]you're traveli[Am]ng gets long,

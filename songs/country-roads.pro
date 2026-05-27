@@ -1,6 +1,5 @@
 {title: Country Roads}
 {key: A}
-{reviewed: true}
 
 {section: Verse 1}
 [A]Almost heaven, [F#m]West Virginia,

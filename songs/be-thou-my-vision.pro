@@ -1,6 +1,5 @@
 {title: Be Thou My Vision}
 {key: D}
-{reviewed: true}
 
 {section: Verse 1}
 [D]Be Thou my visio[Bm]n, O[G] Lord [D]of my [A]heart; [D]

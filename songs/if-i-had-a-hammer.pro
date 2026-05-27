@@ -1,6 +1,5 @@
 {title: If I Had A Hammer}
 {key: C}
-{reviewed: true}
 
 {section: Verse 1}
 [G7][C]If I had a [C]ha[Em]mmer,[F] I'd [G]hammer in the[C] mor[Em]ning[F],

@@ -1,6 +1,5 @@
 {title: When I Behold the Lord}
 {key: E}
-{reviewed: true}
 
 {section: Verse 1}
 [E]When I behold the Lord o[B7]f a[E]ll, my[F#m] old self dies [B7]away[E].

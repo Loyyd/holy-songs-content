@@ -1,6 +1,5 @@
 {title: Sunny Side of Life}
 {key: G}
-{reviewed: true}
 
 {section: Verse 1}
 There's a [G]sunny side where no[C] ills b[G]etide
