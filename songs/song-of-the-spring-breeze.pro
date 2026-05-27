@@ -9,7 +9,7 @@ Sn[C]ow and cold wind of the bitter dark night,
 Breat[F]hing new l[C]ife to the suffo[G7]cated hil[C]ls.
 
 {section: Verse 2}
-Though you most ruthless of winter winds blow,
+Though you most ruthless of winter winds blow, 
 Doomed in a moment you too shall be calmed;
 Butterfly awake and you meadow lark of spring,
 Our land has suffered this nightmare too long;
