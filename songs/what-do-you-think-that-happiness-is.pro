@@ -1,6 +1,6 @@
 {title: What Do You Think That Happiness Is?}
 {key: D}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
 [D]"What do you think that happin[Bm]ess is?"
