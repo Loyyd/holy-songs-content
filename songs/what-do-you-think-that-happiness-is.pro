@@ -3,15 +3,15 @@
 {reviewed: false}
 
 {section: Verse 1}
-[D]"What do you think that happiness is?"
-[Bm]So I brought my question to the stars.
-[G]"Most important is for people to be friends,"
-[A7]Said the stars with one accord.
-[A7]"Shining sun is at the center of us all;
-[D]Twinkling the nine of us go round the sun,
-[Bm]And the light of Love is given to us all; this we know is happiness"
+[D]"What do you think that happin[Bm]ess is?"
+So I br[G]ought my qu[A7]estion to the stars.[D]
+[D]"Most important is for people[Bm] to be friends,"
+Said the sta[G]rs with one[A7] acc[D]ord.
+[A7]"Shining sun is at the cent[D]er of us all;[A7]
+[D]Twinkling the nine[Bm] of us go round[G] the sun[A7],
+[G]And the light of Love is giv[D]en to us all;[Bm] this we [G]know is h[A7]appi[D]ness"
 
-{{section: Verse 2}
+{section: Verse 2}
 [D]"What do you think that happiness is?"
 [Bm]Now I asked the flowers to respond.
 [G]"We compete in sharing beauty all around,"
@@ -20,7 +20,7 @@
 [D]Every blossom is a joy to see;
 [Bm]So when people say how beautiful we are, this we know is happiness."
 
-{{section: Verse 3}
+{section: Verse 3}
 [D]"What do you think that happiness is?"
 [Bm]Now I asked the busy meadowlarks.
 [G]"We delight in flying high and very far,"
@@ -29,7 +29,7 @@
 [D]Sky is above us even higher still;
 [Bm]So forever we'll discover greater heights; this we know is happiness."
 
-{{section: Verse 4}
+{section: Verse 4}
 [D]"What do you think that happiness is?"
 [Bm]So I asked a flock of gentle sheep.
 [G]"Joy is searching for and following the Lord,"
