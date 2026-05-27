@@ -4,42 +4,42 @@
 
 {section: Verse 1}
 [G]Oh when the Saints go marching in
-[D7]When the Saints go marching in
-[G]O Lord, I want to be in that number
-[D7]When the Saints go marching in
+When the Saints go marching in[D7]
+O Lord, I [G]want to be [G7]in that numbe[C]r
+When the Sai[G]nts go ma[D7]rching in[G]
 
 {section: Verse 2}
-[G]Oh when the revelation comes
-[D7]Oh when the revelation comes
-[G]O Lord, I want to be in that number
-[D7]Oh when the revelation comes
+Oh when the revelation comes
+Oh when the revelation comes
+O Lord, I want to be in that number
+Oh when the revelation comes
 
 {section: Verse 3}
-[G]And when the sun refuse to shine
-[D7]And when the sun refuse to shine
-[G]O Lord, I want to be in that number
-[G7]When the sun refuse to shine
+And when the sun refuse to shine
+And when the sun refuse to shine
+O Lord, I want to be in that number
+When the sun refuse to shine
 
 {section: Verse 4}
-[C]Oh when the trumpet sounds the call
-[G]Oh when the trumpet sounds the call
-[D7]O Lord, I want to be in that number
-[G]When the trumpet sounds the call
+Oh when the trumpet sounds the call
+Oh when the trumpet sounds the call
+O Lord, I want to be in that number
+When the trumpet sounds the call
 
 {section: Verse 5}
-[G]And when they gather 'round the throne
-[D7]And when they gather 'round the throne
-[G]O Lord, I want to be in that number
-[D7]When they gather 'round the throne
+And when they gather 'round the throne
+And when they gather 'round the throne
+O Lord, I want to be in that number
+When they gather 'round the throne
 
 {section: Verse 6}
-[G]And when they crown Him King of Kings
-[D7]And when they crown Him King of Kings
-[G]O Lord, I want to be in that number
-[D7]When they crown Him King of Kings
+And when they crown Him King of Kings
+And when they crown Him King of Kings
+O Lord, I want to be in that number
+When they crown Him King of Kings
 
 {section: Verse 7}
-[G]On that hallelujah day
-[D7]On that hallelujah day
-[G]O Lord, I want to be in that number
-[D7]On that hallelujah day
+On that hallelujah day
+On that hallelujah day
+O Lord, I want to be in that number
+On that hallelujah day
