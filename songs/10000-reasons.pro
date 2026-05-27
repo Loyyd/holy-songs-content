@@ -4,7 +4,7 @@
 {reviewed: true}
 
 {section: Chorus}
-Bless the[C] Lord, O my[G] soul, [D/F#]O my [Em]soul,
+Bless the[C] Lord, O my[G] soul, [D/F#]O my [Em]soul, 
 [C]Worship His ho[G]ly n[Dsus4]ame. [D]
 Sing like [C]never be[Em]fore, [C] [D]O my [Em]soul.
 I'll[C] worship Your ho[D]ly na[C/G]me. [G]
