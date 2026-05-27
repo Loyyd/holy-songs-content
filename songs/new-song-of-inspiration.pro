@@ -2,10 +2,10 @@
 {key: A}
 
 {section: Verse 1}
-U[A]pon the earth I came to life i[Bm]n the world God prep[E7]ared.
-One rej[F#m]oic[C#]ing land of fre[F#m]edom I am[D] chosen to build[E7], 
-To rev[A]eal the Truth of[E] Go[A]d, [D]His Pur[A]pose and His W[E]ill [C#]
-Sacrifice[F#m] your[D]self and li[A]ve, all for His desire, [A]all for [E7]His de[A]sire.
+[A]Upon the earth I came to life [Bm]in the world God pre[E7]pared.
+[F#m]One rejoicing [C#]land of [F#m]freedom I am [D]chosen to [E7]build,
+[A]To reveal the [E]Truth of [A]God, His [D]Purpose [A]and His [E]Will [C#]
+[F#m]Sacrifice yourself [D]and live, [A]all for His desire, [A]all for [E7]His d[A]esire.
 
 {section: Verse 2}
 All Heaven sings a mighty song, inspiration divine,
