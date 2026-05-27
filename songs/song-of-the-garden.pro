@@ -1,6 +1,6 @@
 {title: Song of the Garden}
 {key: D}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
 [D]The Lord into His garden comes;[Bm]
