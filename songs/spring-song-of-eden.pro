@@ -3,12 +3,12 @@
 {reviewed: false}
 
 {section: Verse 1}
-[C]Come, O ye [Gm]friends, to the [Am]Garden of [G]Eden,
-[C]Where the spring [Dm]blossoms are [G7]best;
-[Dm]Joyfully [Em]singing to[Dm]gether our [Em]song,
-[Am]Friends in our Eden re[G]gained,
-[Am]Here in the [Em]Garden to[Am]gether we'll [Em]meet,
-[C]Singing new [Em]songs of [G7]joy. [C]
+[C]Come, O ye friends, to the Gar[Gm]den of Eden[Am],  [G]
+[C]Where the spring blossoms are [Dm]best; [G7]
+[Dm]Joyfully [Em]singing toget[Dm]her our son[Em]g,
+Friends in our Ed[Am]en regaine[G]d,
+[Am]Here in the [Em]Garden toget[Am]her we'll meet,[Em]
+Si[C]nging new [Em]songs [G7]of j[C]oy. 
 
 {section: Verse 2}
 Come, O ye friends, to the Garden of Eden,
