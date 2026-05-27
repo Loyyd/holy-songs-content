@@ -3,7 +3,7 @@
 {reviewed: false}
 
 {section: Verse 1}
-Sn[C]ow and cold wind of the bitter dark night, 
+Sn[C]ow and cold wind of the bitter dark night,  
 [F]Lift off the weight of your cold ruthless ha[C]nd;
 [C]Spring breeze will chase you and br[G7]ing flowery fragr[Am]ances,
 Breat[F]hing new l[C]ife to the suffo[G7]cated hil[C]ls.
