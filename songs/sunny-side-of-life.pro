@@ -12,11 +12,13 @@ Where sweet flowers [D]ever[G] grow
 Bros: Oh the ha[G]ppy     sunny      pr[D]etty rolling dales
 Sis':            happy      sunny pretty rolling dales
 
-Bros: Where the sweetest gladness ever there prevails
+Bros: Where the sw[D7]eetest gladnes[G]s ever there prevails
 Sis': sweetest joy and gladness ever there prevails
-Bros: Where the sunshine lingers on the hills
+
+Bros: Where the sunshine [G7]lingers [C]on the hills
 Sis': Where the sunshine ever lingers on the grand majestic hills
-Bros: On the sunny side of life
+
+Bros: On the [G]sunny [D]side of [G]life
 Sis': On the happy sunny side of life
 
 {section: Verse 2}
