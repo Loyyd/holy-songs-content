@@ -3,31 +3,25 @@
 {reviewed: false}
 
 {section: Verse 1}
-[D]The Lord into His garden comes;
-[Bm]The spices yield a rich perfume;
-[G]The lilies grow and thrive, the lilies grow and thrive.
+[D]The Lord into His garden [Bm]comes;
+[G]The spices yield a rich perfume;
+[A7]The [D]lilies grow and [Bm]thrive, the [D]lilies [A7]grow and [D]thrive.[D7]
+[G]Refreshing showers of grace divine,
+From the Father [D]flow to every [Em]vine,
+[A7]And [D]make the dead [Bm]revive, and [D]make the dead [A7]re[D]vive.
 
 {section: Verse 2}
-[A7]Refreshing showers of grace divine,
-[D]From the Father flow to every vine,
-[Bm]And make the dead revive, and make the dead revive.
+Oh that this dry and barren ground
+In springs of water may abound;
+A fruitful soil become, a fruitful soil become.
+The desert blossoms as the rose,
+When the Saviour conquers all his foes,
+And makes His people one, and makes His people one.
 
 {section: Verse 3}
-[D7]Oh that this dry and barren ground
-[G]In springs of water may abound;
-[D]A fruitful soil become, a fruitful soil become.
-
-{section: Verse 4}
-[Em]The desert blossoms as the rose,
-[A7]When the Saviour conquers all his foes,
-[D]And makes His people one, and makes His people one.
-
-{section: Verse 5}
-[Bm]Come brethren you that love the Lord,
-[G]And taste the sweetness of His word;
-[A7]In Father's ways go on, in Father's ways go on,
-
-{section: Verse 6}
-[D]Our trouble and our trials here,
-[Em]Will only make us richer there,
-[A7]When we arrive at home, when we arrive at home.
+Come brethren you that love the Lord,
+And taste the sweetness of His word;
+In Father's ways go on, in Father's ways go on,
+Our trouble and our trials here,
+Will only make us richer there,
+When we arrive at home, when we arrive at home.
