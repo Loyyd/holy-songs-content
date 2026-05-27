@@ -5,15 +5,15 @@
 {section: Verse 1}
 [Dm]If you want to do God's will,
 You must struggle to fulfill,
-Put your [Gm]hand to the plo[A7]ugh, hold on[Dm].
+Put your han[Gm]d to the plo[A7]ugh, hold on[Dm].
 The lesson's clear in history, we are sure you will agree,
-Put your [Dm]hand to the plo[A7]ugh, hold on[Dm].
+Put your hand[Dm] to the plo[A7]ugh, hol[Dm]d on.
 
 {section: Chorus}
 [F]Hold on, hold on[Dm],
 Put your h[G7]and to the plo[A7]ugh, hold o[Dm]n,
 [F]Hold on, hold on[Dm],
-Put your h[Gm]and to the plou[A7]gh, hold on[Dm].
+Put your h[Gm]and to the plo[A7]ugh, hold on[Dm].
 
 {section: Verse 2}
 Jacob laboured many years, shedding floods and floods of tears,
