@@ -1,6 +1,6 @@
 {title: This Is My Song}
 {key: C}
-{reviewed: false}
+{reviewed: true}
 
 {section: Verse 1}
 [C]This is my so[Dm]ng, O God[G7] of all the nati[C]ons,
