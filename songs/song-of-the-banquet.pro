@@ -5,9 +5,9 @@
 {section: Verse 1}
 [Bb]Pure new life that once was sown wit[Eb]hin the [Cm]Garden'[F7]s fertile[Bb] soil,
 Sprouting [D]seed has no[Gm]w become a b[C7]lossom of h[F]eavenly[Bb] l[C7]ovelines[F]s.
-[Bb]Father a[Gm]bove, [Cm7]Lord of [F7]all, [Bb]shower your [C7]blessing [F7]upon
-[Bb]This holy [F]day, [Bb]bond of [Eb]love [Cm]forever [F7]more!
-[Bb]Hal-le-[Eb]lu-[D]jah, [Gm]Glorious [Cm7]Day of [F7]Joy![Bb]
+[Bb]Fat[Gm]her [Cm7]above[F7], L[Bb]ord of[C7] all, [F7]shower your blessing upon
+[Bb]This [F]holy [Bb]day, [Eb]bond of l[Cm]ove for[F7]ever more!
+[Bb]Hal-l[Eb]e-l[D]u-j[Gm]ah, G[Cm7]lorious[F7] Day of[Bb] Joy!
 
 {section: Verse 2}
 Fairest flowers of the meadow, tender buds of perfect form.
