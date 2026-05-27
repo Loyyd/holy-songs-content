@@ -13,7 +13,7 @@ Bros: Oh the ha[G]ppy     sunny      pr[D]etty rolling dales
 Sis':            happy      sunny pretty rolling dales
 
 Bros: Where the sw[D7]eetest gladnes[G]s ever there prevails
-Sis': sweetest joy and gladness ever there prevails
+Sis':               sweetest joy and gladness ever there prevails
 
 Bros: Where the sunshine [G7]lingers [C]on the hills
 Sis': Where the sunshine ever lingers on the grand majestic hills
