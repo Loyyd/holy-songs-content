@@ -3,12 +3,12 @@
 {reviewed: false}
 
 {section: Verse 1}
-[D]The Lord into His garden [Bm]comes;
-[G]The spices yield a rich perfume;
-[A7]The [D]lilies grow and [Bm]thrive, the [D]lilies [A7]grow and [D]thrive.[D7]
-[G]Refreshing showers of grace divine,
-From the Father [D]flow to every [Em]vine,
-[A7]And [D]make the dead [Bm]revive, and [D]make the dead [A7]re[D]vive.
+[D]The Lord into His garden comes;[Bm]
+The spices yield a rich perfu[G]me;
+[A7]The lili[D]es grow and thr[Bm]ive, the lili[D]es gro[A7]w and thri[D]ve.[D7]
+Refres[G]hing showers of grace divine,
+From the Fathe[D]r flow to every vin[Em]e,
+[A7]And m[D]ake the dead revi[Bm]ve, and [D]make the dead[A7] re[D]vive.
 
 {section: Verse 2}
 Oh that this dry and barren ground
