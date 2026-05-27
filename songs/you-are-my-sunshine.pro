@@ -1,6 +1,6 @@
 {title: You Are My Sunshine}
 {key: E}
-{reviewed: false}
+{reviewed: true}
 
 {section: Chorus}
 You are my sun[E]shine, my only sunshine,
