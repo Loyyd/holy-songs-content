@@ -1,7 +1,7 @@
 {title: Since Your Love}
 {artist: United Pursuit}
 {key: B}
-{reviewed: false}
+{reviewed: true}
 
 {section: Intro}
 [Bsus4]     [B]
