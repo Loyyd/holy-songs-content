@@ -18,13 +18,13 @@
 [G]Bros: On the sunny side of life
 [D]Sis': On the happy sunny side of life
 
-{{section: Verse 2}
+{section: Verse 2}
 [G]There's shady dells where no gladness dwells
 [C]And the clouds obstruct the view
 [G]But a brighter way like the light of day
 [D]Is awaiting now for you
 
-{{section: Verse 3}
+{section: Verse 3}
 [G]Let us sing a song as we go along
 [C]Let us banish cares and strife
 [G]That the world might know as we onward go
