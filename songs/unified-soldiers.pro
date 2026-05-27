@@ -1,6 +1,6 @@
 {title: Unified Soldiers}
 {key: Am}
-{reviewed: false}
+{reviewed: true}
 {comment: Use capo on the 3rd fret}
 
 {section: Verse 1}
