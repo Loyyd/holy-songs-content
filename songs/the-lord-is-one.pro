@@ -8,7 +8,7 @@ The L[D]ord will love you foreve[C]r and a [B7]day?
 [Em]All [D]my br[Em]ethren, can't you hear me say,
 The L[C]ord is On[Em]e
 
-{{section: Chorus}
+{section: Chorus}
 [G]Oh c[Bm]an't you hear me, brot[D]her,
 And w[C]on't you come a[Em]long
 [G]To b[Bm]uild the heavenly kin[D]gdom,
