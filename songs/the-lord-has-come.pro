@@ -2,7 +2,7 @@
 {key: C}
 
 {section: Verse 1}
-[C]O, the Lord is c[F]ome[C], O the Lord is [Am]come!
+[C]O, the Lord is c[F]ome[C], O the Lord is [Am]come! 
 [C]He has co[C]me to the [F]country of God,
 [D]Shining in[D7] glorious[G] da[G7]wn. 
 [Am]Here is our Leader and [Dm]Lord[C], filled with our Father's[Am] light.
