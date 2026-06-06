@@ -1,7 +1,7 @@
 {title: All the lands that I loved}
 {key: C}
 
-{section: Verse 1}
+{section: Verse 1} 
 I[C] have been [G]wandering all[Am] over this[F] world 
 [C]Looking for s[G]omething I [F]just couldn't f[C]ind
 [C]Seems like I'm mo[G]ving in[Am] search of my[D7]self
