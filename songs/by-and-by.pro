@@ -1,5 +1,6 @@
 {title: By and By}
 {key: F}
+{category: BC Originals}
 
 {section: Chorus}
 [F]By and by, wh[Bb]en the morning come[F]s,

@@ -2,9 +2,9 @@
 {key: A}
 
 {section: Verse 1}
-[A]Almost heaven, [F#m]West Virginia,
+[A]Almost heaven, [F#m]West Virginia, 
 [E]Blue Ridge Mountains, [D]Shenandoah [A]River.
-Life is [F#m]old there, older than the trees,
+Life is old there,[F#m] older than the trees,
 [E]Younger than the mountains,[D] blowin' like a br[A]eeze.
 
 {section: Chorus}
@@ -14,10 +14,10 @@ West Vir[A]ginia, mountain mo[E]mma,
 Take me[D] home, country ro[A]ads.
 
 {section: Verse 2}
-All my mem'ries, gather 'round her,
-Miner's lady, stranger to blue water.
-Dark and dusty, painted on the sky,
-Misty taste of moonshine, teardrop in my eye.
+[A]All my mem'ries[F#m], gather 'round her,
+[E]Miner's lady, stranger[D] to blue wa[A]ter.
+Dark and dusty, pa[F#m]inted on the sky,
+[E]Misty taste of moonshine, t[D]eardrop in my eye.[A]
 
 {section: Bridge}
 [F#m]I hear her[E] voice, in the[A] mornin' hours she calls me,

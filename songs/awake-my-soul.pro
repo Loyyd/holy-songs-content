@@ -1,5 +1,6 @@
 {title: Awake My Soul}
 {key: D}
+{category: Worship}
 
 {section: Intro}
 [D]
