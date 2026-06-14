@@ -1,5 +1,6 @@
 {title: My Promise}
 {key: A}
+{category: Holy Songs}
 
 {section: Verse 1}
 [A]I ple[E]dge I will go,[F#m] I pl[E]ed[B7]ge I will go; [E7]
