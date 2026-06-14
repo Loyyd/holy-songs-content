@@ -1,5 +1,6 @@
 {title: This Is My Song}
 {key: C}
+{category: Worship}
 
 {section: Verse 1}
 [C]This is my so[Dm]ng, O God[G7] of all the nati[C]ons,
