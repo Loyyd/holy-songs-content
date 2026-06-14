@@ -1,6 +1,7 @@
 {title: Oceans}
 {artist: Hillsong United}
 {key: Em}
+{category: Worship}
 {capo: 7}
 
 {section: Intro}
