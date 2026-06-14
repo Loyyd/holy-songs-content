@@ -1,5 +1,6 @@
 {title: Spring Song of Eden}
 {key: C}
+{category: Holy Songs}
 
 {section: Verse 1}
 [C]Come, O ye friends, to the Gar[Gm]den of Eden[Am],  [G]
