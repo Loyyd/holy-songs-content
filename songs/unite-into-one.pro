@@ -1,5 +1,6 @@
 {title: Unite Into One}
 {key: A}
+{category: Holy Songs}
 
 {section: Verse 1}
 [A]Chase away the power of Sat[D]an,
