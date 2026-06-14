@@ -1,6 +1,7 @@
 {title: Since Your Love}
 {artist: United Pursuit}
 {key: B}
+{category: Worship}
 
 {section: Intro}
 [Bsus4]     [B]
