@@ -1,5 +1,6 @@
 {title: Unified Soldiers}
 {key: Am}
+{category: Holy Songs}
 {comment: Use capo on the 3rd fret}
 
 {section: Verse 1}
