@@ -1,5 +1,6 @@
 {title: Song of the Spring Breeze}
 {key: C}
+{category: Holy Songs}
 
 {section: Verse 1}
 Sn[C]ow and cold wind of the bitter dark night,  
