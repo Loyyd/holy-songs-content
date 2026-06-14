@@ -2,7 +2,7 @@
 {key: A}
 
 {section: Verse 1}
-[A]Almost heaven, [F#m]West Virginia, 
+[A]Almost heaven, [F#m]West Virginia,
 [E]Blue Ridge Mountains, [D]Shenandoah [A]River.
 Life is old there,[F#m] older than the trees,
 [E]Younger than the mountains,[D] blowin' like a br[A]eeze.
