@@ -1,5 +1,6 @@
 {title: Song of the Heavenly Soldiers}
 {key: A}
+{category: Holy Songs}
 
 {section: Verse 1}
 [A]Beautiful mor[E7]ning sunris[A]e, calm a[D]bove the land of[E7] our hope;  [A]
