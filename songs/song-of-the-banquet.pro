@@ -1,5 +1,6 @@
 {title: Song of the Banquet}
 {key: Bb}
+{category: Holy Songs}
 
 {section: Verse 1}
 [Bb]Pure new life that once was sown wit[Eb]hin the [Cm]Garden'[F7]s fertile[Bb] soil,
