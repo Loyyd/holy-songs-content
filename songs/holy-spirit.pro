@@ -1,6 +1,7 @@
 {title: Holy Spirit}
 {artist: Brian and Katie Torwalt}
 {key: D}
+{category: Worship}
 
 {section: Intro}
 [D]   [G]
