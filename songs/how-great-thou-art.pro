@@ -1,5 +1,6 @@
 {title: How Great Thou Art}
 {key: A}
+{category: Worship}
 
 {section: Verse 1}
 [A]O Lord my God, when I in awesome wonder[A7]
