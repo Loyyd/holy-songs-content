@@ -1,5 +1,6 @@
 {title: Just a Closer Walk with Thee}
 {key: A}
+{category: Worship}
 
 {section: Verse 1}
 [A]I am weak, but Thou art strong[E7].
