@@ -1,5 +1,6 @@
 {title: Blessing of Glory}
 {key: A}
+{category: Holy Songs}
 
 {section: Verse 1}
 Now the ligh[A]t of g[F#m]lory [A]arises like the sun that sh[D]ines on [A]high;[E7]
