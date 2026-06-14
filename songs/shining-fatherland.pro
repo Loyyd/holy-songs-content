@@ -1,5 +1,6 @@
 {title: Shining Fatherland}
 {key: Bm}
+{category: Holy Songs}
 
 {section: Verse 1}
 [Bm]Sunlight beaming forth in the East, from th[Em]e Fatherland;[Bm]
