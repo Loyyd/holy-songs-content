@@ -1,6 +1,7 @@
 {title: No Longer Slaves}
 {artist: Brian Johnson, Jonathan David Helser, Joel Case}
 {key: Bb}
+{category: Worship}
 
 {section: Intro}
 [Gm]    [F]    [Bb]    [Eb]
