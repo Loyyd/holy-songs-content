@@ -1,5 +1,6 @@
 {title: Tongil}
 {key: D}
+{category: Holy Songs}
 
 {section: Korean}
 [D]Urie [G]so wonun tong[D]il,
