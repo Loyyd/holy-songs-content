@@ -1,5 +1,6 @@
 {title: Light of Grace}
 {key: A}
+{category: Holy Songs}
 
 {section: Verse 1}
 [A]O, Light of Grace, shi[D]ning above,
