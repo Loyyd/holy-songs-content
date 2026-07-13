@@ -33,10 +33,10 @@ The burden, [F#m]ours to bear
 Will we make our h[C#m]eaven there?   [B]
 
 {section: Link}
-What shall we say?
+What shal[C#m]l we[B]         [E]say?[Esus4]    [E]     [C#m]   [B]
 
 {section: Instrumental}
-[E]
+[E] [E] [A] [A] (2x)
 
 {section: Outro}
 WE - GO - Ooooon... Ohhhhh, Oooon.
