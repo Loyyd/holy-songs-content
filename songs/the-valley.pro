@@ -36,8 +36,11 @@ Will we make our h[C#m]eaven there?   [B]
 What shal[C#m]l we[B]         [E]say?[Esus4]    [E]     [C#m]   [B]
 
 {section: Instrumental}
-[E] [E] [A] [A] (2x)
+[E]  [E]  [A]  [A]  (2x)
 
 {section: Outro}
-WE - GO - Ooooon... Ohhhhh, Oooon.
-WE - GO - Ooooon... Ohhhhh, Oooon (x3)
+WE - GO - [E]Ooooon... Ohhhhh, [C#m]Oooon.
+[A]WE - GO - [E]Ooooon... Ohhhhh, [C#m]Oooon (x3)
+
+ [A]
+ [E] (hold)
