@@ -12,25 +12,25 @@ That our father's f[F#m]ather found
 And wrote our p[C#m]romise down[B]
 
 {section: Verse 2}
-We were born in the family
-Fruit of our True Parents
-Love was our inheritance
-No, we’ll never forget this
+We were born in the f[A]amily
+Fruit of our True P[E]arents
+Love was our inher[F#m]itance
+No, we’ll never for[C#m]get this  [B] 
 
 {section: Link}
-What shall we say?
+What shal[C#m]l we[B]         [E]say?[Esus4]    [E]     [C#m]   [B]
 
 {section: Verse 3}
-We were young when we heard You
-Call our names in the silence
-Like a fire in the dark
-Like a sword upon our hearts
+We were young when we h[A]eard You
+Call our names in the s[E]ilence
+Like a fire in[F#m] the dark
+Like a sword upo[C#m]n our hearts  [B] 
 
 {section: Verse 4}
-We walked up to the mountain
-And we made our off’ring
-The burden, ours to bear
-Will we make our heaven there?
+We walked up to the m[A]ountain
+And we made our o[E]ff’ring
+The burden, [F#m]ours to bear
+Will we make our h[C#m]eaven there?   [B]
 
 {section: Link}
 What shall we say?
