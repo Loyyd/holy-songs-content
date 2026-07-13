@@ -1,5 +1,6 @@
 {title: The Valley}
 {key: C}
+{category: Worship}
 
 {section: Intro}
 [E]
