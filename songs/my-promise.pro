@@ -3,17 +3,17 @@
 {category: Holy Songs}
 
 {section: Verse 1}
-[A]I ple[E]dge I will go,[F#m] I pl[E]ed[B7]ge I will go; [E7]
-[A]Go as my[E7] Father has [A]gone.
-[A]Tears [D]fall on the path,[C#m]
-[F#m]Lonely and si[D]lent the p[F#m]ath of the F[C#m]ather,
-[D]Going to su[E]ffer the w[F#m]ay of the Cr[E]oss.
-[F#m]Ready to fo[C#7]llow His [D]will.
-[A]I pl[E7]edge I will [A]go for[E7]ward to [A]Him.
-[F#m]Ready to fo[C#7]llow His [D]will.
-[A]I pl[E7]edge I will [A]go for[E7]ward to [A]Him.
+[A]I pl[E]edge I will g[F#m]o, [E]I pl[B]edge I will g[E]o; [E7]
+[A]Go as my F[E7]ather has g[A]one.
+[A]Tears f[D]all on the p[C#m]ath,
+[F#m]Lonely and s[D]ilent the pa[F#m]th of the Fa[C#m]ther,
+[D]Going to s[E]uffer the W[F#m]ay of the C[E]ross.
+[F#m]Ready to f[C#7]ollow His W[D]ill.
+[A]I p[C#]ledge I will g[D]o f[E7]orward to H[A]im.
+[F#m]Ready to f[C#]ollow His W[D]ill.
+[A]I p[D7]ledge I will g[A]o f[E7]orward to H[A]im.
 
-{section: Chorus}
+{section: Verse 2}
 I'll follow the way, I'll follow the way;
 Follow the path of my Lord.
 Though thorny the path,
@@ -24,7 +24,7 @@ I'll follow the Lord all of the way;
 Giving my body and soul,
 I'll follow the Lord all of the way.
 
-{section: Verse 2}
+{section: Verse 3}
 I'm ready to serve, I'm ready to serve.
 Serving my Father's desire,
 Trials darken the path,
