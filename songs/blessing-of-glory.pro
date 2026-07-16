@@ -5,10 +5,10 @@
 {section: Verse 1}
 Now the [A]light of [F#m]glory ar[A]ises like the sun that [D]shines on [A]high;[E7]
 [F#m]Now awaken into [C#m]freedom,[E] O re[A]vive, you spirits, [D]O rev[A]ive!
-[F#m]Wake the mountains and the valley[D]s; bring aliv[Bm]e the sprin[E7]gs of the ear[A]th.
+[F#m]Wake the mountains and the [D]valleys; bring a[Bm7]live the [E7]springs of the [A]earth. [E7]
 
 {section: Chorus}
-[E7]Light the w[A]orld forever[F#m] with the Ligh[C#m]t of your[F#m] rebirt[C#m]h,   [A7] 
+Light the w[A]orld forever[F#m] with the Ligh[C#m]t of your[F#m] rebirt[C#m]h,   [A7] 
 Light the worl[D]d foreve[A]r wit[F#m]h the Ligh[A]t of yo[E7]ur rebirt[A]h. 
 
 {section: Verse 2}
