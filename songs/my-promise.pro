@@ -6,12 +6,12 @@
 [A]I [E]pledge I will[F#m] go, [E]I [B]pledge I will [E]go; [E7]
 [A]Go as my [E7]Father has [A]gone.
 [A]Tears [D]fall on the [C#m]path,
-[F#m]Lonely and s[D]ilent the pa[F#m]th of the Fa[C#m]ther,
-[D]Going to s[E]uffer the W[F#m]ay of the C[E]ross.
-[F#m]Ready to f[C#7]ollow His W[D]ill.
-[A]I p[C#]ledge I will g[D]o f[E7]orward to H[A]im.
-[F#m]Ready to f[C#]ollow His W[D]ill.
-[A]I p[D]ledge I will g[A]o f[E7]orward to H[A]im.
+[F#m]Lonely and [D]silent the [F#m]path of the [C#m]Father,
+[D]Going to [E]suffer the [F#m]Way of the [E]Cross.
+[F#m]Ready to [C#7]follow His [D]Will.
+[A]I [C#]pledge I will [D]go [E7]forward to [A]Him.
+[F#m]Ready to [C#]follow His [D]Will.
+[A]I [D]pledge I will [A]go [E7]forward to [A]Him.
 
 {section: Verse 2}
 I'll follow the way, I'll follow the way;
