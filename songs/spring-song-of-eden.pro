@@ -7,8 +7,8 @@
 [C]Where the spring blossoms are [Dm]best; [G7]
 [Dm]Joyfully [Em]singing to[Dm6]gether our [Em]song,
 Friends in our [Am]Eden re[G]gained,
-[Am]Here in the [Em]Garden toget[Am]her we'll meet,[Em]
-Si[C]nging new[Em6] songs [G7]of j[C]oy. 
+[Am]Here in the [Em]Garden to[Am]gether we'll [Em]meet,
+Si[C]nging new [Em6]songs [G7]of [C]joy. 
 
 {section: Verse 2}
 Come, O ye friends, to the Garden of Eden,
