@@ -8,8 +8,8 @@ Now the [A]light of [F#m]glory ar[A]ises like the sun that [D]shines on [A]high;
 [F#m]Wake the mountains and the [D]valleys; bring a[Bm7]live the [E7]springs of the [A]earth. [E7]
 
 {section: Chorus}
-Light the w[A]orld forever[F#m] with the Ligh[C#m]t of your[F#m] rebirt[C#m]h,   [A7] 
-Light the worl[D]d foreve[A]r wit[F#m]h the Ligh[A]t of yo[E7]ur rebirt[A]h. 
+Light the [A]world for[F#m]ever with the [C#m]Light of [F#m]your r[C#m]ebirth,   [A7] 
+Light the [D]world forev[A]er [F#m]with the [A6]Light of [E7]your re[A]birth. 
 
 {section: Verse 2}
 We are called to bring back the glory to the life of God above;
