@@ -2,6 +2,8 @@
 {key: F}
 {category: Holy Songs}
 
+4/4
+
 {section: Verse 1}
 Sing a[F] loud[C7] Hosanna to the L[Dm]ord,
 Offer everyth[Bb]ing with humble [F]heart.
