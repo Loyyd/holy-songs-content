@@ -8,7 +8,7 @@
 [Dm]Joyfully [Em]singing to[Dm6]gether our [Em]song,
 Friends in our [Am]Eden re[G]gained,
 [Am]Here in the [Em]Garden to[Am]gether we'll [Em]meet,
-Si[C]nging new [Em6]songs [G7]of [C]joy. 
+Si[C]nging new [Em6]songs[G7] of [C]joy. 
 
 {section: Verse 2}
 Come, O ye friends, to the Garden of Eden,
