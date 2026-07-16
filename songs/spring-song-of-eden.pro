@@ -3,7 +3,7 @@
 {category: Holy Songs}
 
 {section: Verse 1}
-[C]Come, O ye friends, to the Garden of[Am] Ed[G]en,  
+[C]Come, O ye friends, to the Garden of[Am] Ede[G]n,  
 [C]Where the spring blossoms are [Dm]best; [G7]
 [Dm]Joyfully [Em]singing toget[Dm6]her our son[Em]g,
 Friends in our Ed[Am]en regaine[G]d,
