@@ -3,7 +3,7 @@
 {category: Holy Songs}
 
 {section: Verse 1}
-Now the [A]light of g[F#m]lory a[A]rises like the sun that sh[D]ines on [A]high;[E7]
+Now the [A]light of [F#m]glory ar[A]ises like the sun that sh[D]ines on [A]high;[E7]
 [F#m]Now awaken into free[C#m]dom, O revi[F#m]ve, you spiri[D]ts, O revive[A]!
 [F#m]Wake the mountains and the valley[D]s; bring aliv[Bm]e the sprin[E7]gs of the ear[A]th.
 
