@@ -2,6 +2,8 @@
 {key: A}
 {category: Holy Songs}
 
+4/4
+
 {section: Verse 1}
 Now the [A]light of [F#m]glory ar[A]ises like the sun that [D]shines on [A]high;[E7]
 [F#m]Now awaken into [C#m]freedom,[E] O re[A]vive, you spirits, [D]O rev[A]ive!
