@@ -3,12 +3,12 @@
 {category: Holy Songs}
 
 {section: Verse 1}
-[C]Come, O ye friends, to the Gar[Gm]den of Eden[Am],  [G]
+[C]Come, O ye friends, to the Garden of [Am]Ede[G]n,  
 [C]Where the spring blossoms are [Dm]best; [G7]
-[Dm]Joyfully [Em]singing toget[Dm]her our son[Em]g,
+[Dm]Joyfully [Em]singing toget[Dm6]her our son[Em]g,
 Friends in our Ed[Am]en regaine[G]d,
 [Am]Here in the [Em]Garden toget[Am]her we'll meet,[Em]
-Si[C]nging new [Em]songs [G7]of j[C]oy. 
+Si[C]nging new[Em6] songs [G7]of j[C]oy. 
 
 {section: Verse 2}
 Come, O ye friends, to the Garden of Eden,
