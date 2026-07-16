@@ -4,8 +4,8 @@
 
 {section: Verse 1}
 [A]I [E]pledge I will[F#m] go, [E]I [B]pledge I will [E]go; [E7]
-[A]Go as my F[E7]ather has g[A]one.
-[A]Tears f[D]all on the p[C#m]ath,
+[A]Go as my [E7]Father has [A]gone.
+[A]Tears [D]fall on the [C#m]path,
 [F#m]Lonely and s[D]ilent the pa[F#m]th of the Fa[C#m]ther,
 [D]Going to s[E]uffer the W[F#m]ay of the C[E]ross.
 [F#m]Ready to f[C#7]ollow His W[D]ill.
