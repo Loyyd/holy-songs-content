@@ -5,18 +5,18 @@
 4/4
 
 {section: Verse 1}
-Sing a[F] loud[C7] Hosanna to the L[Dm]ord,
-Offer everyth[Bb]ing with humble [F]heart.
-Come [Gm]attend the L[Am]ord, O re[F]joice in Him
-Who brings [C7]new life to all the [F]world.
+Sing a[F] loud[C7] Hosanna to the [Dm]Lord,
+Offer [Bb]everything with humble [F]heart.
+Come [Gm]attend the [Am]Lord, O re[F]joice in Him
+Who brings new [C7]life to all the [F]world.
 Let us [Dm]go determined to [Am]seek and find
-All the p[F]romised g[Bb]lory of the [F]Lord.
+All the [F]promised [Bb]glory of the [F]Lord.
 
 {section: Chorus}
-Ther[Gm]e we'll sing [Am]new songs [Dm]in the Garden fair,
-Songs of [Am]freedom brig[Dm]ht with [Am]happiness.
-Ther[Bb]e we'll sing new songs [Am]in the Garden fair,
-So[F]ngs of fre[C7]edom bright [F]with happiness.
+There we'll [Gm]sing new [Am]songs in the [Dm]Garden fair,
+Songs of [Am]freedom [Dm]bright with happ[Am]iness.
+There we'll [Bb]sing new songs in the [Am]Garden fair,
+Songs of [F]freedom [C7]bright with happ[F]iness.
 
 {section: Verse 2}
 There are clouds of darkness on the path,
