@@ -14,7 +14,7 @@ All the [F]promised [Bb]glory of the [F]Lord.
 
 {section: Chorus}
 There we'll [Gm]sing new [Am]songs in the [Dm]Garden fair,
-Songs of [Am]freedom [Dm]bright with happi[Am]ness.
+Songs of freedom [Am]bright with [Dm]happi[Am]ness.
 There we'll [Bb]sing new songs in the [Am]Garden fair,
 Songs of [F]freedom [C7]bright with happi[F]ness.
 
