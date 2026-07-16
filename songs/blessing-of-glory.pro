@@ -8,7 +8,7 @@ Now the [A]light of [F#m]glory ar[A]ises like the sun that [D]shines on [A]high;
 [F#m]Wake the mountains and the [D]valleys; bring a[Bm7]live the [E7]springs of the [A]earth. [E7]
 
 {section: Chorus}
-Light the [A]world for[F#m]ever with the [C#m]Light of [F#m]your r[C#m]ebirth,   [A7] 
+Light the [A]world for[F#m]ever with the [C#m]Light of [F#m]your r[C#m]ebirth, [A7] 
 Light the [D]world forev[A]er [F#m]with the [A6]Light of [E7]your re[A]birth. 
 
 {section: Verse 2}
