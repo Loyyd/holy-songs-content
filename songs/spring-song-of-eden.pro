@@ -2,6 +2,8 @@
 {key: C}
 {category: Holy Songs}
 
+3/4
+
 {section: Verse 1}
 [C]Come, O ye friends, to the Garden of[Am] Ede[G]n,  
 [C]Where the spring blossoms are [Dm]best; [G7]
