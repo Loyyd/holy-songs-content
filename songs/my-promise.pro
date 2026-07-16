@@ -10,6 +10,8 @@
 [D]Going to su[E]ffer the w[F#m]ay of the Cr[E]oss.
 [F#m]Ready to fo[C#7]llow His [D]will.
 [A]I pl[E7]edge I will [A]go for[E7]ward to [A]Him.
+[F#m]Ready to fo[C#7]llow His [D]will.
+[A]I pl[E7]edge I will [A]go for[E7]ward to [A]Him.
 
 {section: Chorus}
 I'll follow the way, I'll follow the way;
