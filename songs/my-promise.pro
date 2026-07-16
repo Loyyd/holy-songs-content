@@ -2,6 +2,8 @@
 {key: A}
 {category: Holy Songs}
 
+6/8
+
 {section: Verse 1}
 [A]I [E]pledge I will[F#m] go, [E]I [B]pledge I will [E]go; [E7]
 [A]Go as my [E7]Father has [A]gone.
