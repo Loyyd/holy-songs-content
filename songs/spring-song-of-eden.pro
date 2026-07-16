@@ -6,7 +6,7 @@
 [C]Come, O ye friends, to the Garden of[Am] Ede[G]n,  
 [C]Where the spring blossoms are [Dm]best; [G7]
 [Dm]Joyfully [Em]singing to[Dm6]gether our [Em]song,
-Friends in our Ed[Am]en regaine[G]d,
+Friends in our [Am]Eden rega[G]ined,
 [Am]Here in the [Em]Garden toget[Am]her we'll meet,[Em]
 Si[C]nging new[Em6] songs [G7]of j[C]oy. 
 
