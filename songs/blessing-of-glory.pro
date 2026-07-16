@@ -4,7 +4,7 @@
 
 {section: Verse 1}
 Now the [A]light of [F#m]glory ar[A]ises like the sun that [D]shines on [A]high;[E7]
-[F#m]Now awaken into [C#m]freedom, O re[F#m]vive, you spiri[D]ts, [E]O re[A]vive!
+[F#m]Now awaken into [C#m]freedom, [E]O re[A]vive, you spiri[D]ts, [D]O rev[A]ive!
 [F#m]Wake the mountains and the valley[D]s; bring aliv[Bm]e the sprin[E7]gs of the ear[A]th.
 
 {section: Chorus}
