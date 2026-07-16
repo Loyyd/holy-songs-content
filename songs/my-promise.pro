@@ -11,7 +11,7 @@
 [F#m]Ready to f[C#7]ollow His W[D]ill.
 [A]I p[C#]ledge I will g[D]o f[E7]orward to H[A]im.
 [F#m]Ready to f[C#]ollow His W[D]ill.
-[A]I p[D7]ledge I will g[A]o f[E7]orward to H[A]im.
+[A]I p[D]ledge I will g[A]o f[E7]orward to H[A]im.
 
 {section: Verse 2}
 I'll follow the way, I'll follow the way;
