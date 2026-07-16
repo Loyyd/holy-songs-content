@@ -3,7 +3,7 @@
 {category: Holy Songs}
 
 {section: Verse 1}
-[A]I [E]pledge I will[F#m]  go, [E]I [B]pledge I will [E]go; [E7]
+[A]I [E]pledge I wil[F#m]l  go, [E]I [B]pledge I will [E]go; [E7]
 [A]Go as my F[E7]ather has g[A]one.
 [A]Tears f[D]all on the p[C#m]ath,
 [F#m]Lonely and s[D]ilent the pa[F#m]th of the Fa[C#m]ther,
