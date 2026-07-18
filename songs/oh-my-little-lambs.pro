@@ -1,11 +1,13 @@
 {title: Oh, My Little Lambs}
 {key: D}
 
+4/4
+
 {section: Verse 1}
-[D]O, my [Bm]littl[A]e lamb[D]s, wandering on [G]the [D]lon[A]ely [E7]plain.[A]
-Someda[G]y you ma[F#7]y fall[Bm], overcom[A7]e by your despai[D]r. 
-Weak, wounded soul, no one will c[G]ome to com[D]fort y[A]ou;
-Alone[Bm], you hav[A]e n[D]o one to l[G]ove y[D]ou, no o[Bm]ne to br[Em]ing the[A7] truth.[D]
+[D]O, my [Bm]lit[A]tle [D]lambs, wandering [G]on [D]the [A]lon[E7]ely [A]plain.
+Some[G]day you [F#7]may [Bm]fall, over[A7]come by your des[D]pair. 
+Weak, wounded soul, no one will [G]come [A7]to [D]comfort [A]you;
+Al[Bm]one, you [A]have [D]no one to [G]love [D]you, no [Bm]one to [Em]bring [A7]the [D]truth.
 
 {section: Verse 2}
 O, my little lambs, here is the One who heals your sins.

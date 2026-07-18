@@ -2,11 +2,13 @@
 {key: C}
 {category: Holy Songs}
 
+4/4
+
 {section: Verse 1}
-Sn[C]ow and cold wind of the bitter dark night,  
-[F]Lift off the weight of your cold ruthless ha[C]nd;
-[C]Spring breeze will chase you and br[G7]ing flowery fragr[Am]ances,
-Breat[F]hing new l[C]ife to the suffo[G7]cated hil[C]ls. 
+[C]Snow and cold wind of the bitter dark night,  
+[F]Lift off the weight of your cold ruthless [C]hand;
+[C]Spring breeze will chase you and [G7]bring flowery [Am]fragrances,
+[F]Breathing new [C]life to the [G7]suffocated [C]hills. 
 
 {section: Verse 2}
 Though you most ruthless of winter winds blow, 
